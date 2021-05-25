@@ -3,11 +3,10 @@ title: "Predicting AirBnB Prices and Review scores"
 date: 2021-05-05
 tags: [data wrangling, data science, machine learning]
 header:
-  image: "/images/perceptron/percept.jpg"
+  image: 
 excerpt: "Data Wrangling, Data Science, Machine learning"
 mathjax: "true"
 ---
-# Predicting AirBnB Prices and Review scores
 
 ## Business Understanding
 
