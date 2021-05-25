@@ -1,5 +1,12 @@
-# Creating a Sentiment Analysis Web App
-## Using PyTorch and SageMaker
+---
+title: "Creating a Sentiment Analysis Web App Using PyTorch and SageMaker"
+date: 2021-05-05
+tags: [data wrangling, data science, machine learning]
+header:
+  image: 
+excerpt: "Data Wrangling, Data Science, Machine learning"
+mathjax: "true"
+---
 
 _Deep Learning Nanodegree Program | Deployment_
 
