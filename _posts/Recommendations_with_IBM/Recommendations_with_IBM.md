@@ -1,6 +1,12 @@
-# Recommendations with IBM WATSON
-
-
+---
+title: "Recommendations with IBM WATSON"
+date: 2021-05-05
+tags: [data wrangling, data science, machine learning]
+header:
+  image: 
+excerpt: "Data Wrangling, Data Science, Machine learning"
+mathjax: "true"
+---
 
 ## Table of Contents
 
