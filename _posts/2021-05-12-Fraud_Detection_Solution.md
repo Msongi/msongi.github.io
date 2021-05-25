@@ -1,4 +1,12 @@
-# Detecting Payment Card Fraud
+---
+title: "Detecting Payment Card Fraud"
+date: 2021-05-05
+tags: [AWS SageMaker, data science, machine learning]
+header:
+  image: 
+excerpt: "Data Wrangling, Data Science, Machine learning"
+mathjax: "true"
+---
 
 In this section, we'll look at a credit card fraud detection dataset, and build a binary classification model that can identify transactions as either fraudulent or valid, based on provided, *historical* data. In a [2016 study](https://nilsonreport.com/upload/content_promo/The_Nilson_Report_10-17-2016.pdf), it was estimated that credit card fraud was responsible for over 20 billion dollars in loss, worldwide. Accurately detecting cases of fraud is an ongoing area of research.
 
