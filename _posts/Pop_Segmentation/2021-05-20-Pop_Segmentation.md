@@ -1,4 +1,13 @@
-# Population Segmentation with SageMaker
+---
+title: " Population Segmentation with SageMaker"
+date: 2021-05-05
+tags: [data wrangling, data science, machine learning]
+header:
+  image: 
+excerpt: "Data Wrangling, Data Science, Machine learning"
+mathjax: "true"
+---
+
 
 In this notebook, you'll employ two, unsupervised learning algorithms to do **population segmentation**. Population segmentation aims to find natural groupings in population data that reveal some feature-level similarities between different regions in the US.
 
