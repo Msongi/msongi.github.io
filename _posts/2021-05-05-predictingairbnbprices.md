@@ -7,7 +7,6 @@ header:
 excerpt: "Data Wrangling, Data Science, Machine learning"
 mathjax: "true"
 ---
-# Predicting AirBnB Prices and Review scores
 
 ## Business Understanding
 
