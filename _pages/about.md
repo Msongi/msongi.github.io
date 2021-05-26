@@ -1,6 +1,7 @@
 ---
 title: "About"
 permalink: /about/
+header:
   image: "/image/waterfront.jpg"
 ---
 
