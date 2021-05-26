@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Lionel Mpofu"
-  avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/IMG_20210429_190302(1).jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Gaborone, Botswana"
   email            :  "senatorlionel2@gmail.com"
