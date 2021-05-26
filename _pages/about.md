@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/waterfront.jpg"
+  image: "/images/fort point.png"
 ---
 
 I am a qualified and registered **Electronic engineer** with a passion for Data Science and Machine Learning. As an engineer i've provided innovation consultancy on advanced technology SMEs in Europe and the United States. Projects in the fields of cyber security, automation, electrical engineering, health, finance, Big Data and AI. Since 2019 I have been a self taught Data Scientist and ML engineer. I have completed nanodegrees in Data Analysis, Data Science and Machine Learning Engineering with Udacity. I also have professional certificates in Data Science and AI from IBM.
