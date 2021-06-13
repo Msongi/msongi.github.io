@@ -747,13 +747,13 @@ display_customer_profile()
 
 
     
-![png](output_40_0.png)
+![png](2021-06-13-output_40_0.png)
     
 
 
 
     
-![png](output_40_1.png)
+![png](2021-06-13-output_40_1.png)
     
 
 
