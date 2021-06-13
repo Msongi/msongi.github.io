@@ -1,5 +1,13 @@
-# Optimising Starbuck's rewards program 
 
+---
+title: "Optimising Starbuck's rewards program "
+date: 2021-06-13
+tags: [data wrangling, data science, machine learning]
+header:
+  image: 
+excerpt: "Data Wrangling, Data Science, Machine learning"
+mathjax: "true"
+---
 # Table of Contents
 
 1. [Introduction](#intro)<br>
