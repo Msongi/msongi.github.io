@@ -3751,7 +3751,7 @@ offer_earnings_plot(merged_cust, 'bogo')
 
 
     
-![png](output_192_0.png)
+![](output_192_0.png)
     
 
 
