@@ -1,4 +1,3 @@
-
 ---
 title: "Optimising Starbuck's rewards program "
 date: 2021-06-13
@@ -8,6 +7,7 @@ header:
 excerpt: "Data Wrangling, Data Science, Machine learning"
 mathjax: "true"
 ---
+
 # Table of Contents
 
 1. [Introduction](#intro)<br>
